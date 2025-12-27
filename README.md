@@ -1,3 +1,3 @@
 # demo
 This is my first Git Repository.
-Author - Vinayak Kumbhar
+Author - Vinayak S Kumbhar
